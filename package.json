@@ -1,0 +1,22 @@
+{
+  "name": "qa-cicd-k8",
+  "version": "1.0.0",
+  "description": "sdsadasdadasd",
+  "main": "test.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armandoytriago/QA-CICD-K8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armandoytriago/QA-CICD-K8/issues"
+  },
+  "homepage": "https://github.com/armandoytriago/QA-CICD-K8#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.9.3"
+  }
+}
