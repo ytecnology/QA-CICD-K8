@@ -1,4 +1,4 @@
-module lambda-tests
+module terratest-tests
 
 go 1.18
 
