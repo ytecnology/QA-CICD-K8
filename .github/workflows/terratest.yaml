@@ -13,13 +13,13 @@ jobs:
 
       - uses: actions/setup-node@v2  
         with:
-        node-version: '18'
+          node-version: '18'
 
       - name: Terraform
         uses: hashicorp/setup-terraform@v2
         with:
-            terraform_version: "1.6.2"
-            terraform_wrapper: false
+          terraform_version: "1.6.2"
+          terraform_wrapper: false
 
       - uses: actions/setup-python@v4
         with:
